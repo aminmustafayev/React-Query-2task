@@ -1,0 +1,39 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Breaking Bad",
+      "posterImg": "https://m.media-amazon.com/images/M/MV5BMTJiMzgwZTktYzZhZC00YzhhLWEzZDUtMGM2NTE4MzQ4NGFmXkEyXkFqcGdeQWpybA@@._V1_QL75_UX500_CR0,0,500,281_.jpg",
+      "releaseYear": 2008,
+      "genre": "2008 ‧ Drama ‧ 5 seasons"
+    },
+    {
+      "id": "2",
+      "title": "The Platform",
+      "posterImg": "https://i.insider.com/5e752793671de031a8485274?width=1200&format=jpeg",
+      "releaseYear": 2019,
+      "genre": "2019 ‧ Horror/Sci-fi ‧ 1h 34m"
+    },
+    {
+      "id": "3",
+      "title": "The Pianist",
+      "posterImg": "https://assets.mubicdn.net/images/artworks/555339/images-original.png?1686642864",
+      "releaseYear": 2002,
+      "genre": "2002 War/Drama ‧ 2h 30m"
+    },
+    {
+      "id": "4",
+      "title": "The Fury",
+      "posterImg": "https://m.media-amazon.com/images/M/MV5BMjA4MDU0NTUyN15BMl5BanBnXkFtZTgwMzQxMzY4MjE@._V1_.jpg",
+      "releaseYear": 2014,
+      "genre": "2014 ‧ Drama ‧ 2 seasons"
+    },
+    {
+      "id": "5",
+      "title": "Kurtlar Vadisi",
+      "posterImg": "https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2022/09/kurtlar_vadisi_dizisinde_yillar_once_bilinen_gercek_salgini_on_gormusler_1646302777_1941.jpg",
+      "releaseYear": 2003,
+      "genre": "2003 ‧ Mafia ‧ 5 seasons"
+    }
+  ]
+}
